@@ -5,7 +5,7 @@
 📚 Learning: TypeScript, DevOps, AI tools  
 🤝 Open to collab on open‑source & startups  
 💬 Ask me about web dev, JS/TS, React, performance  
-📫 Contact: your.email@example.com | Telegram: @AF_TechHub  
+📫 Contact: your.feridmusefa5075@gmail.com | Telegram:(https://t.me/NeverGiveUp_N)
 ⚡ Fun: Coffee-powered debugging ☕
 
 ### 🔧 Tech Stack
