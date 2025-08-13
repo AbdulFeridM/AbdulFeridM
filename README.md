@@ -1,16 +1,18 @@
-<!-- Animated Gradient Banner -->
+<!-- Neon Animated Gradient Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:ff6a00,100:ee0979&height=220&section=header&text=Abdul%20Ferid&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:a82da8&height=220&section=header&text=Abdul%20Ferid&fontSize=50&fontColor=fff&animation=glitch&fontAlignY=40" />
 </p>
 
-<!-- Typing Animation -->
+<!-- Typing Animation with Neon Colors -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=700&color=ffffff&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;MERN+Stack+Specialist;JavaScript+%7C+React+%7C+Node.js+%7C+MongoDB;Building+Modern+&+Efficient+Apps" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=700&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Specialist;JavaScript+%7C+React+%7C+Node.js+%7C+MongoDB;Building+Modern+&+Efficient+Apps" />
 </p>
 
 ---
 
 ### 🌟 About Me
+Hi, I'm **Abdul Ferid** – a passionate developer creating **modern, fast, and interactive web apps**.  
+
 - 🔭 Currently working on **React, Node.js & MongoDB projects**  
 - 🌱 Learning **TypeScript, DevOps & AI-powered development**  
 - 👯 Open to **collaboration on open-source projects & startups**  
@@ -23,13 +25,13 @@
 ### 🌐 Connect with Me
 <p align="center">
   <a href="https://t.me/NeverGiveUp_N" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1E293B" />
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0f172a" />
   </a>
   <a href="https://www.linkedin.com/in/abdulferid/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1E293B" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f172a" />
   </a>
   <a href="mailto:feridmusefa5075@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1E293B" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f172a" />
   </a>
 </p>
 
@@ -37,19 +39,19 @@
 
 ### 💻 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,nodejs,express,mongodb,postgresql,git,docker,html,css,bootstrap&theme=light" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,nodejs,express,mongodb,postgresql,git,docker,html,css,bootstrap&theme=dark" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdulFeridM&show_icons=true&theme=radical&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulFeridM&theme=radical&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdulFeridM&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulFeridM&theme=tokyonight&hide_border=true" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulFeridM&layout=compact&theme=radical&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulFeridM&layout=compact&theme=tokyonight&hide_border=true" height="160" />
 </p>
 
 ---
@@ -68,7 +70,7 @@
   </a>
 </p>
 
-<!-- Footer Wave -->
+<!-- Footer Neon Wave -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ee0979,100:ff6a00&height=140&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a82da8,100:36BCF7&height=140&section=footer" />
 </p>
