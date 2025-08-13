@@ -1,51 +1,74 @@
-<h1 align="center">Hi 👋, I'm Abdul Ferid</h1>
-<h3 align="center">Full-stack developer passionate about building modern, efficient, and user-friendly applications.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AbdulFeridM&label=Profile%20views&color=0e75b6&style=flat" alt="AbdulFeridM" /> </p>
-
-- 🔭 I’m currently working on **React, Node.js , MongoDB projects**
-- 🌱 I’m currently learning **TypeScript, DevOps, AI-powered development**
-- 👯 I’m looking to collaborate on **open-source projects and startup ideas**
-- 💬 Ask me about **JavaScript, React, Node.js, MongoDB and web performance**
-- 📫 How to reach me: **feridmusefa5075@gmail.com**
-- ⚡ Fun fact: **Coffee makes my debugging 200% faster ☕**
-
----
-
-### 🌐 Connect with me:
-<p align="left">
-<a href="https://t.me/NeverGiveUp_N" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" alt="telegram" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/abdulferid/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="mailto:feridmusefa5075@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="gmail" height="30" width="40" /></a>
-</p>
-
----
-
-### 💻 Tech Stack:
-<p align="left">
-<img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript" />
-<img src="https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript" />
-<img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react" />
-<img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs" />
-<img src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=nodedotjs" />
-<img src="https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express" />
-<img src="https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb" />
-<img src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql" />
-<img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git" />
-<img src="https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker" />
-</p>
-
----
-
-### 📊 GitHub Stats:
+<!-- Animated Gradient Banner -->
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AbdulFeridM&show_icons=true&theme=tokyonight" alt="stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulFeridM&theme=tokyonight" alt="streak" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulFeridM&layout=compact&theme=tokyonight" alt="languages" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:ff6a00,100:ee0979&height=220&section=header&text=Abdul%20Ferid&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=40" />
+</p>
+
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=700&color=ffffff&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;MERN+Stack+Specialist;JavaScript+%7C+React+%7C+Node.js+%7C+MongoDB;Building+Modern+&+Efficient+Apps" />
 </p>
 
 ---
 
+### 🌟 About Me
+- 🔭 Currently working on **React, Node.js & MongoDB projects**  
+- 🌱 Learning **TypeScript, DevOps & AI-powered development**  
+- 👯 Open to **collaboration on open-source projects & startups**  
+- 💬 Ask me about **JavaScript, React, Node.js, MongoDB & web performance**  
+- 📫 Reach me at: **feridmusefa5075@gmail.com**  
+- ⚡ Fun fact: **Coffee boosts my debugging 200% ☕**
 
-### ☕ Support Me:
-<p><a href="https://www.buymeacoffee.com/yourusername"> <img src="https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a></p>
+---
+
+### 🌐 Connect with Me
+<p align="center">
+  <a href="https://t.me/NeverGiveUp_N" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1E293B" />
+  </a>
+  <a href="https://www.linkedin.com/in/abdulferid/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1E293B" />
+  </a>
+  <a href="mailto:feridmusefa5075@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1E293B" />
+  </a>
+</p>
+
+---
+
+### 💻 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,nodejs,express,mongodb,postgresql,git,docker,html,css,bootstrap&theme=light" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdulFeridM&show_icons=true&theme=radical&hide_border=true&count_private=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulFeridM&theme=radical&hide_border=true" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulFeridM&layout=compact&theme=radical&hide_border=true" height="160" />
+</p>
+
+---
+
+### 🎯 Fun Animation
+<p align="center">
+  <img src="https://media.giphy.com/media/3o6Zt8MgUuvSbkZYWc/giphy.gif" width="400" />
+</p>
+
+---
+
+### ☕ Support Me
+<p align="center">
+  <a href="https://www.buymeacoffee.com/yourusername" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="55" />
+  </a>
+</p>
+
+<!-- Footer Wave -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ee0979,100:ff6a00&height=140&section=footer" />
+</p>
